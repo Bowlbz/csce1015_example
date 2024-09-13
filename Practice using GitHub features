@@ -1,0 +1,23 @@
+/* Author: David Jason Bowlby
+   Date: September 13, 2024
+   Description: Practice using GitHub
+*/
+
+#include <iostream>
+#include <string>
+#include <cstdlib>
+#include <ctime>
+
+using namespace std;
+
+int main()
+{
+
+// Declared Local Variables
+
+cout << " Hello World " << endl;
+
+
+ 
+  return 0;
+}
